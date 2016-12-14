@@ -64,7 +64,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Versioning
 
-We use [GitHub](http://github.com/) for versioning. For the versions available, see the [tags on this repository digital-api-atg](https://github.com/sprintdigital/digital-api-atg).
+We use [GitHub](http://github.com/) for versioning. For the versions available, see the [tags on this repository example-mulesoft-api-templates](https://github.com/interface360/example-mulesoft-api-templates.git).
 
 ## Authors
 
