@@ -68,5 +68,5 @@ We use [GitHub](http://github.com/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Raymond Arnado** - *MuleSoft SA* - [interface360](https://github.com/interface360)
+* **Raymond Arnado** - *RA* - [interface360](https://github.com/interface360)
 
